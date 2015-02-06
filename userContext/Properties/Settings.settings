@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="userManagement.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="domain" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">msanaker</Value>
+    </Setting>
+    <Setting Name="domainLDAPbase" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">dc=msanaker,dc=local</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
